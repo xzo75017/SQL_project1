@@ -86,5 +86,12 @@
 - Pivoting rows to columns using SQL queries.
 - Pivoting rows to columns with joins using SQL queries.
 
+## Part 7 SQL
 
+- Understanding the project and how to use Oracle SQL Developer.
+- Understanding the basics of data analysis, SQL commands, and their application.
+- Understanding the use of Oracle SQL Developer.
+- Understanding the concept of Data Wrangling.
+- Understanding the Online Shopping database.
+- Perform Data Wrangling activities on the data.
 
